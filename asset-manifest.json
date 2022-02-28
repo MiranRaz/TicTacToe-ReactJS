@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/Projects/TicTacToe-ReactJS/static/css/main.c282d557.css",
-    "main.js": "/MyPortfolio/Projects/TicTacToe-ReactJS/static/js/main.70ef8833.js",
-    "static/js/787.be294ac0.chunk.js": "/MyPortfolio/Projects/TicTacToe-ReactJS/static/js/787.be294ac0.chunk.js",
-    "index.html": "/MyPortfolio/Projects/TicTacToe-ReactJS/index.html",
-    "main.c282d557.css.map": "/MyPortfolio/Projects/TicTacToe-ReactJS/static/css/main.c282d557.css.map",
-    "main.70ef8833.js.map": "/MyPortfolio/Projects/TicTacToe-ReactJS/static/js/main.70ef8833.js.map",
-    "787.be294ac0.chunk.js.map": "/MyPortfolio/Projects/TicTacToe-ReactJS/static/js/787.be294ac0.chunk.js.map"
+    "main.css": "/TicTacToe-ReactJS/static/css/main.c282d557.css",
+    "main.js": "/TicTacToe-ReactJS/static/js/main.ed608d7f.js",
+    "static/js/787.be294ac0.chunk.js": "/TicTacToe-ReactJS/static/js/787.be294ac0.chunk.js",
+    "index.html": "/TicTacToe-ReactJS/index.html",
+    "main.c282d557.css.map": "/TicTacToe-ReactJS/static/css/main.c282d557.css.map",
+    "main.ed608d7f.js.map": "/TicTacToe-ReactJS/static/js/main.ed608d7f.js.map",
+    "787.be294ac0.chunk.js.map": "/TicTacToe-ReactJS/static/js/787.be294ac0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c282d557.css",
-    "static/js/main.70ef8833.js"
+    "static/js/main.ed608d7f.js"
   ]
 }
